@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1634605678 source:c:\users\gabri\desktop\programacionuno\tp2conestructuras\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"sector.h"
+	"funcionesParaIngresos.h"
+	<string.h>
+
+1634589138 c:\users\gabri\desktop\programacionuno\tp2conestructuras\arrayemployees.h
+	"sector.h"
+
+1634438110 c:\users\gabri\desktop\programacionuno\tp2conestructuras\funcionesparaingresos.h
+
+1634609734 source:c:\users\gabri\desktop\programacionuno\tp2conestructuras\funcionesparaingresos.c
+	"funcionesParaIngresos.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1634587500 source:c:\users\gabri\desktop\programacionuno\tp2conestructuras\hardcode.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"hardcode.h"
+
+1634576904 c:\users\gabri\desktop\programacionuno\tp2conestructuras\hardcode.h
+	"ArrayEmployees.h"
+
+1634616254 source:c:\users\gabri\desktop\programacionuno\tp2conestructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"funcionesParaIngresos.h"
+	"hardcode.h"
+	"sector.h"
+
+1634542456 c:\users\gabri\desktop\programacionuno\tp2conestructuras\sector.h
+
+1634578547 source:c:\users\gabri\desktop\programacionuno\tp2conestructuras\sector.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sector.h"
+

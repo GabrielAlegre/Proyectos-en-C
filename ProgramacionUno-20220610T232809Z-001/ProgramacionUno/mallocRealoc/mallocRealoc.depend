@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637845963 source:c:\users\gabri\desktop\programacionuno\mallocrealoc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

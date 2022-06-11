@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1635136309 source:c:\users\gabri\desktop\programacionuno\estructuranetbook\netbook.c
+	"netbook.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1635116998 c:\users\gabri\desktop\programacionuno\estructuranetbook\netbook.h
+
+1635126390 source:c:\users\gabri\desktop\programacionuno\estructuranetbook\main.c
+	<stdio.h>
+	<stdlib.h>
+	"netbook.h"
+

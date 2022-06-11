@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1637760189 source:c:\users\gabri\desktop\programacionuno\alegreparcial2labo1\input.c
+	"input.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1637759909 c:\users\gabri\desktop\programacionuno\alegreparcial2labo1\input.h
+
+1637699426 source:c:\users\gabri\desktop\programacionuno\alegreparcial2labo1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1637719920 c:\users\gabri\desktop\programacionuno\alegreparcial2labo1\linkedlist.h
+
+1637765068 source:c:\users\gabri\desktop\programacionuno\alegreparcial2labo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"input.h"
+	"LinkedList.h"
+	"controller.h"
+
+1637764958 source:c:\users\gabri\desktop\programacionuno\alegreparcial2labo1\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"controller.h"
+	"LinkedList.h"
+	"peliculas.h"
+	"input.h"
+	"parser.h"
+
+1637764379 c:\users\gabri\desktop\programacionuno\alegreparcial2labo1\controller.h
+	"LinkedList.h"
+
+1637764249 c:\users\gabri\desktop\programacionuno\alegreparcial2labo1\peliculas.h
+
+1637756268 c:\users\gabri\desktop\programacionuno\alegreparcial2labo1\parser.h
+
+1637757452 source:c:\users\gabri\desktop\programacionuno\alegreparcial2labo1\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"parser.h"
+	"peliculas.h"
+
+1637764280 source:c:\users\gabri\desktop\programacionuno\alegreparcial2labo1\peliculas.c
+	"peliculas.h"
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	<string.h>
+
+1637764958 source:c:\users\gabri\desktop\programacionuno\alegre.gabriel.p2lab1a\alegreparcial2labo1\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"controller.h"
+	"LinkedList.h"
+	"peliculas.h"
+	"input.h"
+	"parser.h"
+
+1637764379 c:\users\gabri\desktop\programacionuno\alegre.gabriel.p2lab1a\alegreparcial2labo1\controller.h
+	"LinkedList.h"
+
+1637719920 c:\users\gabri\desktop\programacionuno\alegre.gabriel.p2lab1a\alegreparcial2labo1\linkedlist.h
+
+1637764249 c:\users\gabri\desktop\programacionuno\alegre.gabriel.p2lab1a\alegreparcial2labo1\peliculas.h
+
+1637759909 c:\users\gabri\desktop\programacionuno\alegre.gabriel.p2lab1a\alegreparcial2labo1\input.h
+
+1637756268 c:\users\gabri\desktop\programacionuno\alegre.gabriel.p2lab1a\alegreparcial2labo1\parser.h
+
+1637760189 source:c:\users\gabri\desktop\programacionuno\alegre.gabriel.p2lab1a\alegreparcial2labo1\input.c
+	"input.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1637699426 source:c:\users\gabri\desktop\programacionuno\alegre.gabriel.p2lab1a\alegreparcial2labo1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1637757452 source:c:\users\gabri\desktop\programacionuno\alegre.gabriel.p2lab1a\alegreparcial2labo1\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"parser.h"
+	"peliculas.h"
+
+1637764280 source:c:\users\gabri\desktop\programacionuno\alegre.gabriel.p2lab1a\alegreparcial2labo1\peliculas.c
+	"peliculas.h"
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	<string.h>
+

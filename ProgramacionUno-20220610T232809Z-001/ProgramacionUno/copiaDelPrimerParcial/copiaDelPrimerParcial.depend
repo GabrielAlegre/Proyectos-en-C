@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1635293610 source:c:\users\gabri\desktop\programacionuno\copiadelprimerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"input.h"
+	"auto.h"
+	"color.h"
+	"marca.h"
+	"hardcodeo.h"
+	"servicio.h"
+	"trabajo.h"
+
+1635293503 source:c:\users\gabri\desktop\programacionuno\copiadelprimerparcial\auto.c
+	"auto.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"color.h"
+	"marca.h"
+	"input.h"
+
+1635038632 c:\users\gabri\desktop\programacionuno\copiadelprimerparcial\auto.h
+	"color.h"
+	"marca.h"
+
+1634740956 c:\users\gabri\desktop\programacionuno\copiadelprimerparcial\color.h
+
+1634741096 c:\users\gabri\desktop\programacionuno\copiadelprimerparcial\marca.h
+
+1634957448 c:\users\gabri\desktop\programacionuno\copiadelprimerparcial\input.h
+
+1634731626 source:c:\users\gabri\desktop\programacionuno\copiadelprimerparcial\color.c
+	"color.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1634683996 source:c:\users\gabri\desktop\programacionuno\copiadelprimerparcial\fecha.c
+	"fecha.h"
+	<stdio.h>
+	<stdlib.h>
+
+1634697415 c:\users\gabri\desktop\programacionuno\copiadelprimerparcial\fecha.h
+
+1635106622 source:c:\users\gabri\desktop\programacionuno\copiadelprimerparcial\hardcodeo.c
+	"hardcodeo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1634973114 c:\users\gabri\desktop\programacionuno\copiadelprimerparcial\hardcodeo.h
+	"auto.h"
+	"trabajo.h"
+	"fecha.h"
+
+1634956886 source:c:\users\gabri\desktop\programacionuno\copiadelprimerparcial\input.c
+	"input.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1634737084 c:\users\gabri\desktop\programacionuno\copiadelprimerparcial\servicio.h
+
+1635290267 c:\users\gabri\desktop\programacionuno\copiadelprimerparcial\trabajo.h
+	"fecha.h"
+	"servicio.h"
+	"auto.h"
+	"color.h"
+	"marca.h"
+
+1634733145 source:c:\users\gabri\desktop\programacionuno\copiadelprimerparcial\marca.c
+	"marca.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635281209 source:c:\users\gabri\desktop\programacionuno\copiadelprimerparcial\servicio.c
+	"servicio.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635293789 source:c:\users\gabri\desktop\programacionuno\copiadelprimerparcial\trabajo.c
+	"trabajo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"servicio.h"
+	"fecha.h"
+	"color.h"
+	"marca.h"
+	"input.h"
+

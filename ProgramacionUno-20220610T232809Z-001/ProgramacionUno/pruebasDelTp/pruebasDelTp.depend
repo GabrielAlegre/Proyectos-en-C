@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1634330021 source:c:\users\gabri\desktop\programacionuno\pruebasdeltp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"funcionesParaIngresos.h"
+	"hardcode.h"
+
+1634337927 source:c:\users\gabri\desktop\programacionuno\pruebasdeltp\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"funcionesParaIngresos.h"
+	<string.h>
+
+1634335951 c:\users\gabri\desktop\programacionuno\pruebasdeltp\arrayemployees.h
+
+1634266470 c:\users\gabri\desktop\programacionuno\pruebasdeltp\funcionesparaingresos.h
+
+1634334980 source:c:\users\gabri\desktop\programacionuno\pruebasdeltp\funcionesparaingresos.c
+	"funcionesParaIngresos.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1634332441 source:c:\users\gabri\desktop\programacionuno\pruebasdeltp\hardcode.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"hardcode.h"
+
+1634335918 c:\users\gabri\desktop\programacionuno\pruebasdeltp\hardcode.h
+	"ArrayEmployees.h"
+

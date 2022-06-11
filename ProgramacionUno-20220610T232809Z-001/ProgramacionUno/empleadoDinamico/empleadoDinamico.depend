@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636379598 source:c:\users\gabri\desktop\programacionuno\empleadodinamico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

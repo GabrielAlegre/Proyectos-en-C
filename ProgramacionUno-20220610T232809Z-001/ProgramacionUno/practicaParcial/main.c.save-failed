@@ -1,0 +1,121 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <ctype.h>
+#include "color.h"
+#include "servicio.h"
+#include "tipo.h"
+#include "bibliotecaDeValidaciones.h"
+#include "fecha.h"
+#define TAM_COLOR 5
+#define TAM_TIPO 4
+#define TAM_SERVICIO 4
+
+
+char menu();
+
+int main()
+{
+    char salir='n';
+
+    eTipo tipos[TAM_TIPO]={
+
+        {1000, "Rutera"},
+        {1001, "Carrera"},
+        {1002, "Mountain"},
+        {1003, "BMX"}
+
+    };
+
+    eColor colores[TAM_COLOR]={
+
+        {5000, "Gris",},
+        {5001, "Negro",},
+        {5002, "Blanco"},
+        {5003, "Azul"},
+        {5004, "Rojo"}
+
+    };
+
+    eServicio servicios[TAM_SERVICIO]={
+
+        {20000, "Limpieza", 250},
+        {20001, "Parche", 300},
+        {20002, "Centrado", 400},
+        {20003, "Cadena", 350}
+    };
+
+
+
+    do{
+        switch(menu())
+        {
+            case 'A':
+                break;
+
+            case 'B':
+                break;
+
+            case 'C':
+                break;
+
+            case 'D':
+                break;
+
+            case 'E':
+                mostrarTipos(tipos, TAM_TIPO);
+                break;
+
+            case 'F':
+                mostrarColor(colores, TAM_COLOR);
+                break;
+
+            case 'G':
+                break;
+
+            case 'H':
+                break;
+
+            case 'I':
+                break;
+
+            case 'J':
+                validarCaracter(&salir, "Esta seguro que desea salir s/n?: ", "Respuesta invalida. 's' para salir. 'n' para cancelar la salida: ", 's', 'n');
+                break;
+
+            default:
+                printf("Opcion invalida!!!\n");
+                break;
+        }
+        system("pause");
+
+    }while(salir=='n');
+
+}
+
+
+char menu()
+{
+    char opcion;
+    system("cls");
+
+    printf("                *** MENU BICICLETERIA ***             \n");
+    printf("-----------------------------------------------------------------------\n");
+    printf("A- ALTA BICICLETA\n");
+    printf("B- MODIFICAR BICICLETA\n");
+    printf("C- BAJA BICICLETA\n");
+    printf("D- LISTAR BICICLETA\n");
+    printf("E- LISTAR TIPO\n");
+    printf("F- LISTAR COLOR\n");
+    printf("G- LISTAR SERVICIOS\n");
+    printf("H- ALTA TRABAJO\n");
+    printf("I- LISTAR TRABAJO\n");
+    printf("J- SALIR\n");
+
+    printf("Ingrese opcion: ");
+    fflush(stdin);
+    scanf("%c", &opcion);
+
+    opcion=toupper(opcion);
+
+    return opcion;
+}

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1633356541 source:c:\users\gabri\desktop\programacionuno\tareaarrayscuatro\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1634435975 source:c:\users\gabri\desktop\programacionuno\chekeo\chekeo.c
+
+1634436761 source:c:\users\gabri\desktop\programacionuno\chekeo\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"empleado.h"
+
+1634436751 c:\users\gabri\desktop\programacionuno\chekeo\empleado.h
+
+1634436905 source:c:\users\gabri\desktop\programacionuno\chekeo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"empleado.h"
+

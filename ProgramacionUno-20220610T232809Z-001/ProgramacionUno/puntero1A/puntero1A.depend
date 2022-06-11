@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1631105125 source:c:\users\gabri\desktop\programacionuno\puntero1a\mibibliotecaalegre.c
+	"miBibliotecaAlegre.h"
+	<stdio.h>
+	<stdlib.h>
+
+1631103674 c:\users\gabri\desktop\programacionuno\puntero1a\mibibliotecaalegre.h
+
+1631417134 source:c:\users\gabri\desktop\programacionuno\puntero1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	"miBiblotecaAlegre.h"
+
+1631395830 c:\users\gabri\desktop\programacionuno\puntero1a\mibiblotecaalegre.h
+
+1631416389 source:c:\users\gabri\desktop\programacionuno\puntero1a\mibiblotecaalegre.c
+	"miBiblotecaAlegre.h"
+	<stdio.h>
+

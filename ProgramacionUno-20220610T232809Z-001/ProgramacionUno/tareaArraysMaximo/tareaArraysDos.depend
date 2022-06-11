@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1632141157 source:c:\users\gabri\desktop\programacionuno\tareaarraysdos\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1632141157 source:c:\users\gabri\desktop\programacionuno\tareaarraysmaximo\main.c
+	<stdio.h>
+	<stdlib.h>
+

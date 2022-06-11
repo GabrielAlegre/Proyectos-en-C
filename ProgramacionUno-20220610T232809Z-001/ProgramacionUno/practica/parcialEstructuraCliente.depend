@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1635315500 source:c:\users\gabri\desktop\programacionuno\parcialestructuracliente\auto.c
+	"auto.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"color.h"
+	"marca.h"
+	"input.h"
+
+1635313409 c:\users\gabri\desktop\programacionuno\parcialestructuracliente\auto.h
+	"color.h"
+	"marca.h"
+	"cliente.h"
+
+1634740956 c:\users\gabri\desktop\programacionuno\parcialestructuracliente\color.h
+
+1634741096 c:\users\gabri\desktop\programacionuno\parcialestructuracliente\marca.h
+
+1634957448 c:\users\gabri\desktop\programacionuno\parcialestructuracliente\input.h
+
+1634731626 source:c:\users\gabri\desktop\programacionuno\parcialestructuracliente\color.c
+	"color.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1634683996 source:c:\users\gabri\desktop\programacionuno\parcialestructuracliente\fecha.c
+	"fecha.h"
+	<stdio.h>
+	<stdlib.h>
+
+1634697415 c:\users\gabri\desktop\programacionuno\parcialestructuracliente\fecha.h
+
+1635311005 source:c:\users\gabri\desktop\programacionuno\parcialestructuracliente\hardcodeo.c
+	"hardcodeo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1635302967 c:\users\gabri\desktop\programacionuno\parcialestructuracliente\hardcodeo.h
+	"auto.h"
+	"trabajo.h"
+	"fecha.h"
+	"cliente.h"
+
+1635314285 c:\users\gabri\desktop\programacionuno\parcialestructuracliente\trabajo.h
+	"fecha.h"
+	"servicio.h"
+	"auto.h"
+	"color.h"
+	"marca.h"
+	"cliente.h"
+
+1635316040 c:\users\gabri\desktop\programacionuno\parcialestructuracliente\servicio.h
+
+1634956886 source:c:\users\gabri\desktop\programacionuno\parcialestructuracliente\input.c
+	"input.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1635315087 source:c:\users\gabri\desktop\programacionuno\parcialestructuracliente\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"input.h"
+	"auto.h"
+	"color.h"
+	"marca.h"
+	"hardcodeo.h"
+	"servicio.h"
+	"trabajo.h"
+	"cliente.h"
+
+1634733145 source:c:\users\gabri\desktop\programacionuno\parcialestructuracliente\marca.c
+	"marca.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635306132 source:c:\users\gabri\desktop\programacionuno\parcialestructuracliente\servicio.c
+	"servicio.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635311834 source:c:\users\gabri\desktop\programacionuno\parcialestructuracliente\trabajo.c
+	"trabajo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"servicio.h"
+	"fecha.h"
+	"color.h"
+	"marca.h"
+	"input.h"
+
+1635306683 c:\users\gabri\desktop\programacionuno\parcialestructuracliente\cliente.h
+
+1635315339 source:c:\users\gabri\desktop\programacionuno\parcialestructuracliente\cliente.c
+	"cliente.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"input.h"
+

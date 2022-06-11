@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1638124881 source:c:\users\gabri\desktop\programacionuno\practicaparaelparcialito\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LinkedList.h"
+	"Controller.h"
+	"pais.h"
+	"input.h"
+	"parser.h"
+
+1637759897 source:c:\users\gabri\desktop\programacionuno\practicaparaelparcialito\input.c
+	"input.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1637534049 c:\users\gabri\desktop\programacionuno\practicaparaelparcialito\input.h
+
+1637770640 source:c:\users\gabri\desktop\programacionuno\practicaparaelparcialito\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1637719920 c:\users\gabri\desktop\programacionuno\practicaparaelparcialito\linkedlist.h
+
+1637702336 source:c:\users\gabri\desktop\programacionuno\practicaparaelparcialito\pais.c
+	"pais.h"
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	<string.h>
+
+1637707437 c:\users\gabri\desktop\programacionuno\practicaparaelparcialito\pais.h
+
+1638120357 source:c:\users\gabri\desktop\programacionuno\practicaparaelparcialito\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"pais.h"
+
+1637719668 c:\users\gabri\desktop\programacionuno\practicaparaelparcialito\controller.h
+	"LinkedList.h"
+
+1637712221 c:\users\gabri\desktop\programacionuno\practicaparaelparcialito\parser.h
+
+1638124860 source:c:\users\gabri\desktop\programacionuno\practicaparaelparcialito\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"controller.h"
+	"LinkedList.h"
+	"pais.h"
+	"input.h"
+	"parser.h"
+

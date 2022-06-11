@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1633132964 source:c:\users\gabri\desktop\programacionuno\cadenacaracteres\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

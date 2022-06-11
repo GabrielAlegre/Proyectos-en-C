@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1641285170 source:c:\users\gabri\desktop\programacionuno\alegreparcial2labo1\input.c
+	"input.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1637759909 c:\users\gabri\desktop\programacionuno\alegreparcial2labo1\input.h
+
+1637699426 source:c:\users\gabri\desktop\programacionuno\alegreparcial2labo1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1637719920 c:\users\gabri\desktop\programacionuno\alegreparcial2labo1\linkedlist.h
+
+1641291713 source:c:\users\gabri\desktop\programacionuno\alegreparcial2labo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"input.h"
+	"LinkedList.h"
+	"controller.h"
+
+1641291735 source:c:\users\gabri\desktop\programacionuno\alegreparcial2labo1\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"controller.h"
+	"LinkedList.h"
+	"peliculas.h"
+	"input.h"
+	"parser.h"
+
+1641290617 c:\users\gabri\desktop\programacionuno\alegreparcial2labo1\controller.h
+	"LinkedList.h"
+
+1641290192 c:\users\gabri\desktop\programacionuno\alegreparcial2labo1\peliculas.h
+
+1637756268 c:\users\gabri\desktop\programacionuno\alegreparcial2labo1\parser.h
+
+1637757452 source:c:\users\gabri\desktop\programacionuno\alegreparcial2labo1\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"parser.h"
+	"peliculas.h"
+
+1641288899 source:c:\users\gabri\desktop\programacionuno\alegreparcial2labo1\peliculas.c
+	"peliculas.h"
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	<string.h>
+
+1641273892 source:c:\users\gabriel\downloads\programacionuno-20220610t232809z-001\programacionuno\alegreparcial2labo1\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"controller.h"
+	"LinkedList.h"
+	"peliculas.h"
+	"input.h"
+	"parser.h"
+
+1641272616 c:\users\gabriel\downloads\programacionuno-20220610t232809z-001\programacionuno\alegreparcial2labo1\controller.h
+	"LinkedList.h"
+
+1637701920 c:\users\gabriel\downloads\programacionuno-20220610t232809z-001\programacionuno\alegreparcial2labo1\linkedlist.h
+
+1641272192 c:\users\gabriel\downloads\programacionuno-20220610t232809z-001\programacionuno\alegreparcial2labo1\peliculas.h
+
+1637741908 c:\users\gabriel\downloads\programacionuno-20220610t232809z-001\programacionuno\alegreparcial2labo1\input.h
+
+1637738268 c:\users\gabriel\downloads\programacionuno-20220610t232809z-001\programacionuno\alegreparcial2labo1\parser.h
+
+1641267170 source:c:\users\gabriel\downloads\programacionuno-20220610t232809z-001\programacionuno\alegreparcial2labo1\input.c
+	"input.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1637681426 source:c:\users\gabriel\downloads\programacionuno-20220610t232809z-001\programacionuno\alegreparcial2labo1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1641331070 source:c:\users\gabriel\downloads\programacionuno-20220610t232809z-001\programacionuno\alegreparcial2labo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"input.h"
+	"LinkedList.h"
+	"controller.h"
+
+1637739452 source:c:\users\gabriel\downloads\programacionuno-20220610t232809z-001\programacionuno\alegreparcial2labo1\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"parser.h"
+	"peliculas.h"
+
+1641270898 source:c:\users\gabriel\downloads\programacionuno-20220610t232809z-001\programacionuno\alegreparcial2labo1\peliculas.c
+	"peliculas.h"
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	<string.h>
+

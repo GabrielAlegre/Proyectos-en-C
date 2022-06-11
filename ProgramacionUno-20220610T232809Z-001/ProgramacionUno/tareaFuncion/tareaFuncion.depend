@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1631395121 source:c:\users\gabri\desktop\programacionuno\tareafuncion\main.c
+	<stdio.h>
+	<stdlib.h>
+	"miBiblotecaAlegre.h"
+
+1631419831 source:c:\users\gabri\desktop\programacionuno\tareafuncion\mibiblotecaalegre.c
+	"miBiblotecaAlegre.h"
+	<stdio.h>
+
+1631395830 c:\users\gabri\desktop\programacionuno\tareafuncion\mibiblotecaalegre.h
+

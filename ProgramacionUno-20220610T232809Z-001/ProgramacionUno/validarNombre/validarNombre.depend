@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1637425343 source:c:\users\gabri\desktop\programacionuno\validarnombre\input.c
+	"input.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1637420371 c:\users\gabri\desktop\programacionuno\validarnombre\input.h
+
+1637422946 source:c:\users\gabri\desktop\programacionuno\validarnombre\main.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+

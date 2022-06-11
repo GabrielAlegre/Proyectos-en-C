@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632757238 source:c:\users\gabri\desktop\programacionuno\ordenamientobubblesort\main.c
+	<stdio.h>
+	<stdlib.h>
+

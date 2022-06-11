@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1637981888 source:c:\users\gabri\desktop\programacionuno\borrarmañana\main.c
+	<stdio.h>
+	<stdlib.h>
+

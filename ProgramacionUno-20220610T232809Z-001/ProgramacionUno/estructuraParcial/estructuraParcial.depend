@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1634700187 source:c:\users\gabri\desktop\programacionuno\estructuraparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"input.h"
+
+1634699296 source:c:\users\gabri\desktop\programacionuno\estructuraparcial\input.c
+	"input.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1634699284 c:\users\gabri\desktop\programacionuno\estructuraparcial\input.h
+

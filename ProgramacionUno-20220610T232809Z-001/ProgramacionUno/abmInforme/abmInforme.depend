@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1634614573 source:c:\users\gabri\desktop\programacionuno\abminforme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"person.h"
+	"dataWarehouse.h"
+	"localidad.h"
+	"comida.h"
+	"almuerzo.h"
+	"fecha.h"
+
+1634606882 c:\users\gabri\desktop\programacionuno\abminforme\person.h
+	"localidad.h"
+
+1634607468 source:c:\users\gabri\desktop\programacionuno\abminforme\person.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"person.h"
+
+1634609975 source:c:\users\gabri\desktop\programacionuno\abminforme\datawarehouse.c
+	<string.h>
+	"dataWarehouse.h"
+
+1634078758 c:\users\gabri\desktop\programacionuno\abminforme\datawarehouse.h
+	"person.h"
+
+1634129345 source:c:\users\gabri\desktop\programacionuno\abminforme\localidad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"localidad.h"
+
+1634129350 c:\users\gabri\desktop\programacionuno\abminforme\localidad.h
+
+1634611130 source:c:\users\gabri\desktop\programacionuno\abminforme\comida.c
+	"comida.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1634606889 c:\users\gabri\desktop\programacionuno\abminforme\comida.h
+
+1634611480 source:c:\users\gabri\desktop\programacionuno\abminforme\almuerzo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"almuerzo.h"
+	"funcionesParaIngresos.h"
+
+1634607192 c:\users\gabri\desktop\programacionuno\abminforme\almuerzo.h
+	"fecha.h"
+	"person.h"
+	"localidad.h"
+	"comida.h"
+
+1634602917 c:\users\gabri\desktop\programacionuno\abminforme\fecha.h
+
+1634602842 source:c:\users\gabri\desktop\programacionuno\abminforme\fecha.c
+	"fecha.h"
+
+1634438048 source:c:\users\gabri\desktop\programacionuno\abminforme\funcionesparaingresos.c
+	"funcionesParaIngresos.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1634438110 c:\users\gabri\desktop\programacionuno\abminforme\funcionesparaingresos.h
+

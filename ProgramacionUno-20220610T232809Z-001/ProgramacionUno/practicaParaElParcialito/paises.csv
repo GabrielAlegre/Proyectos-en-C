@@ -1,0 +1,31 @@
+id,nombre,vac1dosis,vac2dosis,sinVacunar
+1,Thailand,45,29,26
+2,Peru,39,22,39
+3,Yemen,2,35,63
+4,Tunisia,37,6,57
+5,China,33,24,43
+6,Philippines,9,28,63
+7,Poland,58,29,13
+8,Spain,3,8,89
+9,Saudi Arabia,31,2,67
+10,Venezuela,4,8,88
+11,Portugal,16,36,48
+12,Brazil,2,10,88
+13,Iceland,29,20,51
+14,France,15,19,66
+15,Colombia,45,2,53
+16,Slovenia,43,23,34
+17,Kenya,5,26,69
+18,Indonesia,50,3,47
+19,Ukraine,26,22,52
+20,Norway,34,30,36
+21,Chad,11,20,69
+22,Kazakhstan,41,15,44
+23,United States,10,17,73
+24,Argentina,31,27,42
+25,Ghana,45,38,17
+26,Mexico,11,30,59
+27,Uganda,60,10,30
+28,Paraguay,6,4,90
+29,Belarus,53,17,30
+30,Italy,32,40,28

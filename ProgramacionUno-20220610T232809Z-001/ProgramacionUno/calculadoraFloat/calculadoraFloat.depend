@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1632078327 source:c:\users\gabri\desktop\programacionuno\calculadorafloat\main.c
+	<stdio.h>
+	<stdlib.h>
+	"miBiblotecaAlegre.h"
+
+1632078108 c:\users\gabri\desktop\programacionuno\calculadorafloat\mibiblotecaalegre.h
+
+1632078119 source:c:\users\gabri\desktop\programacionuno\calculadorafloat\mibiblotecaalegre.c
+	"miBiblotecaAlegre.h"
+	<stdio.h>
+	<stdlib.h>
+

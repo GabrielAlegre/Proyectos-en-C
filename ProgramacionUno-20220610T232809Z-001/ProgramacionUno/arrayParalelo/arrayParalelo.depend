@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1632933939 source:c:\users\gabri\desktop\programacionuno\arrayparalelo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

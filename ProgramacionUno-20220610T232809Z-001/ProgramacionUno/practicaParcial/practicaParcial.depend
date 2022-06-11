@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1638662329 source:c:\users\gabri\desktop\programacionuno\practicaparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"color.h"
+	"servicio.h"
+	"tipo.h"
+	"bibliotecaDeValidaciones.h"
+	"fecha.h"
+	"hardcode.h"
+	"trabajo.h"
+	"bicicleta.h"
+
+1634699253 source:c:\users\gabri\desktop\programacionuno\practicaparcial\bibliotecadevalidaciones.c
+	"bibliotecaDeValidaciones.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1634699250 c:\users\gabri\desktop\programacionuno\practicaparcial\bibliotecadevalidaciones.h
+
+1634729120 source:c:\users\gabri\desktop\programacionuno\practicaparcial\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1634702174 c:\users\gabri\desktop\programacionuno\practicaparcial\color.h
+
+1634683996 source:c:\users\gabri\desktop\programacionuno\practicaparcial\fecha.c
+	"fecha.h"
+	<stdio.h>
+	<stdlib.h>
+
+1634697415 c:\users\gabri\desktop\programacionuno\practicaparcial\fecha.h
+
+1634683922 source:c:\users\gabri\desktop\programacionuno\practicaparcial\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1634672781 c:\users\gabri\desktop\programacionuno\practicaparcial\servicio.h
+
+1634618408 source:c:\users\gabri\desktop\programacionuno\practicaparcial\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1634615879 c:\users\gabri\desktop\programacionuno\practicaparcial\tipo.h
+
+1634700487 c:\users\gabri\desktop\programacionuno\practicaparcial\bicicleta.h
+	"tipo.h"
+	"color.h"
+
+1634697741 source:c:\users\gabri\desktop\programacionuno\practicaparcial\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"bicicleta.h"
+	"color.h"
+	"tipo.h"
+	"bibliotecaDeValidaciones.h"
+
+1634683290 source:c:\users\gabri\desktop\programacionuno\practicaparcial\hardcode.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"hardcode.h"
+
+1634662012 c:\users\gabri\desktop\programacionuno\practicaparcial\hardcode.h
+	"bicicleta.h"
+
+1634676537 c:\users\gabri\desktop\programacionuno\practicaparcial\trabajo.h
+	"fecha.h"
+	"servicio.h"
+	"bicicleta.h"
+	"color.h"
+	"tipo.h"
+
+1634683886 source:c:\users\gabri\desktop\programacionuno\practicaparcial\trabajo.c
+	"trabajo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicleta.h"
+	"servicio.h"
+	"fecha.h"
+	"color.h"
+	"tipo.h"
+	"bibliotecaDeValidaciones.h"
+

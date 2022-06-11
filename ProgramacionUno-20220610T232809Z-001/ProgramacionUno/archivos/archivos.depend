@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1636478313 source:c:\users\gabri\desktop\programacionuno\archivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+
+1636377806 source:c:\users\gabri\desktop\programacionuno\archivos\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+
+1636377831 c:\users\gabri\desktop\programacionuno\archivos\empleado.h
+
+1636359806 source:c:\users\gabriel\downloads\programacionuno-20220610t232809z-001\programacionuno\archivos\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+
+1636359830 c:\users\gabriel\downloads\programacionuno-20220610t232809z-001\programacionuno\archivos\empleado.h
+
+1638035098 source:c:\users\gabriel\downloads\programacionuno-20220610t232809z-001\programacionuno\archivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+

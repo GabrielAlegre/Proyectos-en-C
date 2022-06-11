@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638186872 source:c:\users\gabri\desktop\programacionuno\parcialprogramacionpruebas\main.c
+	<stdio.h>
+	<stdlib.h>
+
